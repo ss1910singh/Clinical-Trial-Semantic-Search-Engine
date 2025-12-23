@@ -312,9 +312,9 @@ Access the docs at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 Developed by
 
-* **Sankalp Sathe**
 * **Satish Singh**
-* **Aakash Shedge**
 * **Pranavi Shukla**
+* **Aakash Shedge**
+* **Sankalp Sathe**
 
 **Mentor:** *Dr. Ekta Sarda*
