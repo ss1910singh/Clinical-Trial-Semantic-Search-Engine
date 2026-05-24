@@ -298,23 +298,3 @@ python scripts/api.py
 Access the docs at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
 
 ---
-
-## 🧩 Future Work
-
-* Expand annotated dataset for higher NER accuracy
-* Add relation classification using transformers
-* Integrate ontology-based query expansion
-* Support multilingual biomedical datasets
-
----
-
-## 👨‍⚕️ Authors & Credits
-
-Developed by
-
-* **Satish Singh**
-* **Pranavi Shukla**
-* **Aakash Shedge**
-* **Sankalp Sathe**
-
-**Mentor:** *Dr. Ekta Sarda*
