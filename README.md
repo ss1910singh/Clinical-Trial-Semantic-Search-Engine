@@ -293,8 +293,3 @@ python scripts/vectorize_and_index.py
 
 # Phase V: Launch FastAPI server
 python scripts/api.py
-```
-
-Access the docs at [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs)
-
----
